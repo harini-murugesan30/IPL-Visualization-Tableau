@@ -1,2 +1,2 @@
 # IPL-Visualization-Tableau
-Tableau dashboard for the Indian Premier League (IPL) statistics from 2008 to 2017
+Developed an interactive Tableau dashboard for the Indian Premier League (IPL) statistics from 2008 to 2017, providing insights into match outcomes, player performances, and team statistics. The dashboard was designed for a news agency to enhance their sports infographics, allowing for customizable filters and interactive exploration of data. Key findings included trends in toss decisions, team victories, and standout performances by players like SK Raina and SL Malinga.
