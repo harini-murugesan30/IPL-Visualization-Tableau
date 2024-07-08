@@ -4,8 +4,8 @@ This repository contains the IPL Visualization Assignment and the associated Tab
 
 ## Files
 
-- `IPL_Visualization_Assignment.pptx`: PowerPoint presentation of the IPL visualization assignment.
-- `IPL_Visualization.twbx`: Tableau workbook file with the interactive dashboard.
+- `IPL_Visualization_Assignment.pdf`: PowerPoint presentation of the IPL visualization assignment.
+- `IPL_Assignment.twbx`: Tableau workbook file with the interactive dashboard.
 
 ## Objective
 
